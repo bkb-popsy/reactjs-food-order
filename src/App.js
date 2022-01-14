@@ -12,5 +12,5 @@ function App() {
     </CartProvider>
   );
 }
-
+//changing from a cloned git
 export default App;
